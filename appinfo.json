@@ -1,0 +1,33 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "andrew.albinger@gmail.com",
+    "longName": "DHL-time",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/dhl-logo3.png",
+                "name": "IMAGE_DHL",
+                "type": "png"
+            },
+            {
+                "file": "fonts/LCDM2B.TTF",
+                "name": "FONT_LCD_48",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "DHL-time",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "28a9dd2f-194e-4cce-99ac-7e45bb7075c5",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
